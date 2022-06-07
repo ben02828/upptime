@@ -15,22 +15,22 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
-  - name: apple
+  - name: Apple
     url: https://www.apple.com/tw/?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_602144593671_pgrid_12618487622_pntwk_g_pchan__pexid__&cid=aos-tw-kwgo-brand--slid---product-
     
-  - name: zuvio
+  - name: Zuvio
     url: https://irs.zuvio.com.tw/irs/login
     
-  - name: google translator
+  - name: Google translator
     url: https://translate.google.com/?hl=zh-HK
     
-  - name: netflix
+  - name: Netflix
     url: https://www.netflix.com/browse
     
-  - name: youtube
+  - name: Youtube
     url: https://www.youtube.com/
     
-  - name: testerror
+  - name: Testerror
     url: https://www.youtu511be.com/
     
     
