@@ -11,7 +11,21 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: apple
+    url: https://www.apple.com/tw/?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_602144593671_pgrid_12618487622_pntwk_g_pchan__pexid__&cid=aos-tw-kwgo-brand--slid---product-
+  - name: zuvio
+    url: https://irs.zuvio.com.tw/irs/login
+  - name: google translater
+    url: https://translate.google.com/?hl=zh-HK
+  - name: netflix
+    url: https://www.netflix.com/browse
+  - name: youtube
+    url: https://www.youtube.com/
+    
+    
+    
+    
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
