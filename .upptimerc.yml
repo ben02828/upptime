@@ -14,7 +14,7 @@ sites:
     
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
- sites:
+
   - name: Apple
     url: https://www.apple.com/tw/?afid=p238%7Csd9nZSawW-dc_mtid_18707vxu38484_pcrid_602144593671_pgrid_12618487622_pntwk_g_pchan__pexid__&cid=aos-tw-kwgo-brand--slid---product-
     
